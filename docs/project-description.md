@@ -1,2 +1,4 @@
-# Project Description
-A small Python project for practicing Git workflows.
+
+## Features
+- Prints name and current date
+- Calculator: add, subtract, multiply
